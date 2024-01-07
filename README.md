@@ -1,3 +1,4 @@
+## UNFINISHED
 # hackerman
 fake hacking  script (similar to hollywood)
 ## installation
